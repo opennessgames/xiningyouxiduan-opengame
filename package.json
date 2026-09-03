@@ -1,0 +1,19 @@
+{
+  "name": "xiningyouxiduan-opengame",
+  "version": "1.0.0",
+  "description": "A simple game and tool combination website that provides several small games and online tools.",
+  "keywords": [
+    "opengame",
+    "yzx"
+  ],
+  "license": "MIT",
+  "author": "xixi_",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^44.1.1"
+  }
+}
