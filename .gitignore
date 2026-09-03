@@ -1,0 +1,11 @@
+#
+# @Author: xixi_
+# @Date: 2026-09-03 13:57:41
+# @LastEditors: xixi_
+# @LastEditTime: 2026-09-03 13:57:45
+# @FilePath: /xiningyouxiduan-opengame/.gitignore
+# Copyright (c) 2017-2026 by xixi_ , All Rights Reserved.
+#
+
+# 宇宙中最重的奇点
+/node_modules/
